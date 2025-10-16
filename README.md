@@ -41,15 +41,13 @@ A proposta surgiu a partir da observação de uma dificuldade real de zootecnist
 ## 📸 Prints do App
 
 ### 🏠 Tela Inicial
-[Tela Inicial](./img/home_page.jpg)
+![Tela Inicial](./img/home_page.jpg)
 
 ### 📊 Logo do APP
 ![Logo](./img/logo.jpg)
 
-
-💡 **Dica:**  
-As imagens devem estar no formato `.png` ou `.jpg` e com nomes simples (sem acento ou espaço).  
-O GitHub renderiza automaticamente as imagens no README.
+### 📊 Lotes
+![lotes](./img/lotes.jpg)
 
 ---
 
