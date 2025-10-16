@@ -40,14 +40,26 @@ A proposta surgiu a partir da observação de uma dificuldade real de zootecnist
 
 ## 📸 Prints do App
 
-### 🏠 Tela Inicial
-![Tela Inicial](./img/home_page.jpg)
+<div align="center">
 
-### 📊 Logo do APP
-![Logo](./img/logo.jpg)
+<table>
+  <tr>
+    <td align="center">
+      🏠 <b>Tela Inicial</b><br>
+      <img src="./img/home_page.jpg" width="220">
+    </td>
+    <td align="center">
+      🧠 <b>Logo do App</b><br>
+      <img src="./img/logo.jpg" width="220">
+    </td>
+    <td align="center">
+      🐐 <b>Lotes</b><br>
+      <img src="./img/lotes.jpg" width="220">
+    </td>
+  </tr>
+</table>
 
-### 📊 Lotes
-![lotes](./img/lotes.jpg)
+</div>
 
 ---
 
