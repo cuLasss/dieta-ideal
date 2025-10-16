@@ -38,28 +38,23 @@ A proposta surgiu a partir da observação de uma dificuldade real de zootecnist
 
 ---
 
-## 📸 Prints do App
+## 📱 Interface do App
+
+<div align="center">
+  <img src="./img/logo.jpg" width="140" alt="Logo do App" style="margin-bottom: 15px;">
+  <h3>NutriCapra — FECIB 2024</h3>
+</div>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      🏠 <b>Tela Inicial</b><br>
-      <img src="./img/home_page.jpg" width="220">
-    </td>
-    <td align="center">
-      🧠 <b>Logo do App</b><br>
-      <img src="./img/logo.jpg" width="220">
-    </td>
-    <td align="center">
-      🐐 <b>Lotes</b><br>
-      <img src="./img/lotes.jpg" width="220">
-    </td>
-  </tr>
-</table>
+<img src="./img/home_page.jpg" width="240" alt="Tela Inicial" style="margin: 10px; border-radius: 12px;">
+<img src="./img/lotes.jpg" width="240" alt="Tela de Lotes" style="margin: 10px; border-radius: 12px;">
 
 </div>
+
+<p align="center">
+🏠 <b>Tela Inicial</b> &nbsp;&nbsp;&nbsp; 🐐 <b>Lotes</b>
+</p>
 
 ---
 
