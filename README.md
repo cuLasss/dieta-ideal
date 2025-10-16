@@ -12,7 +12,7 @@
 
 ## 💡 Visão Geral
 
-O **DietaIdeal** é um aplicativo móvel desenvolvido em **Flutter + Dart**, voltado para o **cálculo automático da dieta ideal de cabras leiteiras**.  
+O **Dieta Ideal** é um aplicativo móvel desenvolvido em **Flutter + Dart**, voltado para o **cálculo automático da dieta ideal de cabras leiteiras**.  
 O sistema analisa o consumo de volumosos e concentrados, calculando o **balanço de nutrientes** e gerando recomendações precisas para suprir possíveis déficits nutricionais.  
 
 A proposta surgiu a partir da observação de uma dificuldade real de zootecnistas e produtores rurais: o cálculo manual e demorado da nutrição de rebanhos.  
