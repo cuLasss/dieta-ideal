@@ -40,19 +40,12 @@ A proposta surgiu a partir da observação de uma dificuldade real de zootecnist
 
 ## 📸 Prints do App
 
-Você pode adicionar imagens do seu app com a seguinte estrutura:
-
-1. Crie uma pasta dentro do repositório chamada `img/`  
-2. Suba suas capturas de tela (por exemplo `home.png`, `resultados.png`)  
-3. Use a sintaxe abaixo no README:
-
-```md
 ### 🏠 Tela Inicial
-![Tela Inicial](./img/home.png)
+[Tela Inicial](./img/home_page.jpg)
 
-### 📊 Resultado do Cálculo
-![Resultados](./img/resultados.png)
-```
+### 📊 Logo do APP
+![Logo](./img/logo.jpg)
+
 
 💡 **Dica:**  
 As imagens devem estar no formato `.png` ou `.jpg` e com nomes simples (sem acento ou espaço).  
