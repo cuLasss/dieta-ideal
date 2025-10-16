@@ -1,4 +1,4 @@
-# 🐐 NutriCapra — App de Controle e Cálculo Nutricional para Cabras Leiteiras  
+# 🐐 Dieta Ideal — App de Controle e Cálculo Nutricional para Cabras Leiteiras  
 
 ![Status](https://img.shields.io/badge/status-premiado-success)
 ![Platform](https://img.shields.io/badge/platform-Flutter-blue)
@@ -12,7 +12,7 @@
 
 ## 💡 Visão Geral
 
-O **NutriCapra** é um aplicativo móvel desenvolvido em **Flutter + Dart**, voltado para o **cálculo automático da dieta ideal de cabras leiteiras**.  
+O **DietaIdeal** é um aplicativo móvel desenvolvido em **Flutter + Dart**, voltado para o **cálculo automático da dieta ideal de cabras leiteiras**.  
 O sistema analisa o consumo de volumosos e concentrados, calculando o **balanço de nutrientes** e gerando recomendações precisas para suprir possíveis déficits nutricionais.  
 
 A proposta surgiu a partir da observação de uma dificuldade real de zootecnistas e produtores rurais: o cálculo manual e demorado da nutrição de rebanhos.  
@@ -42,7 +42,7 @@ A proposta surgiu a partir da observação de uma dificuldade real de zootecnist
 
 <div align="center">
   <img src="./img/logo.jpg" width="140" alt="Logo do App" style="margin-bottom: 15px;">
-  <h3>NutriCapra — FECIB 2024</h3>
+  <h3>Dieta Ideal — FECIB 2025</h3>
 </div>
 
 <div align="center">
@@ -53,7 +53,7 @@ A proposta surgiu a partir da observação de uma dificuldade real de zootecnist
 </div>
 
 <p align="center">
-🏠 <b>Tela Inicial</b> &nbsp;&nbsp;&nbsp; 🐐 <b>Lotes</b>
+🏠 <b>Tela Inicial</b> &nbsp;&nbsp;&nbsp;    🐐 <b>Lotes</b>
 </p>
 
 ---
@@ -72,4 +72,4 @@ O aplicativo simplifica cálculos complexos e oferece uma ferramenta acessível 
 
 ---
 
-> 🥇 Projeto premiado e reconhecido como destaque de inovação tecnológica na FECIB 2024.
+> 🥇 Projeto premiado e reconhecido como destaque de inovação tecnológica na FECIB 2025.
